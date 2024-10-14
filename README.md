@@ -1,1 +1,1 @@
-This analysis was done using Jupyter notebook and python libraries Matplotlib and Geopandas. HW11 named files contain COVID data analysis of Texas.
+This analysis was done using Jupyter notebook and python libraries Matplotlib and Geopandas. HW11 named files contain COVID data analysis of Texas, HW8 files contains covid analytics of afghanistan.
